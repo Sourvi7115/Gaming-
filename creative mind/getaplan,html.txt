@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<title>
+Get a plan
+</title>
+<head>
+<style>
+.container {width:100vw;height:100vh;background:gray;}
+
+
+
+
+
+
+</style>
+</head>
+<body>
+<div class="container"> </div>
+
+
+
+
+
+
+
+
+</body>
+</html>
